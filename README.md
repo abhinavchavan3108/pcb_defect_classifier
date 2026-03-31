@@ -124,9 +124,9 @@ The model performance is assessed using the following metrics:
 
 ## Team
 
-* Member 1
-* Member 2
-* Member 3
+* Kritharth T
+* Abhinav Shailesh Chavan
+* Digvijay Singh Goil
 
 ---
 
@@ -137,7 +137,3 @@ The model performance is assessed using the following metrics:
 * Integration with industrial inspection systems
 
 ---
-
-## License
-
-This project is intended for academic and research purposes.
