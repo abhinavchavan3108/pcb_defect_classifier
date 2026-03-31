@@ -185,11 +185,11 @@ The deep learning model demonstrates strong performance in detecting and classif
 ## Project Structure
 
 ```bash
-├── data/                # Dataset
-├── models/              # Trained models
-├── notebooks/           # Experiments and analysis
-├── src/                 # Source code
-├── results/             # Outputs and evaluation metrics
+├── PCB_DATASET/                  # Dataset
+├── DEFECT_DETECTION_CODES/       # Source codes
+├── OUTPUT/                       # Output images
+├── RESULTS/                      # Analysis of output images
+├── ALTERNATE_PIPELINE/           # Experimental PCB Detection
 ├── README.md
 ```
 
@@ -210,4 +210,3 @@ The deep learning model demonstrates strong performance in detecting and classif
 * Abhinav Shailesh Chavan
 * Digvijay Singh Goil
 
----
