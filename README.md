@@ -33,7 +33,6 @@ The system identifies the following defect types:
 * Short Circuit
 * Spur
 * Spurious Copper
-* Non-Defective
 
 ---
 
@@ -67,7 +66,7 @@ The primary solution uses a YOLOv8-based object detection model to identify and 
 3. **Preprocessing**
 
    * Resize images to a fixed resolution (640×640)
-   * Normalize and enhance images
+   * Normalize and enhance images by converting it into grayscale and increase contrast
 
 4. **Dataset Splitting**
 
